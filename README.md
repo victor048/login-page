@@ -10,6 +10,10 @@
     <img src="./.github/login.png" alt="Image Example" width="400px">
 </p>
 
+
+🔗 Link do Figma
+https://www.figma.com/file/7T1wkErczp...
+
 <h3>Prerequisites</h3>
 
 Here you list all prerequisites necessary for running your project. For example:
